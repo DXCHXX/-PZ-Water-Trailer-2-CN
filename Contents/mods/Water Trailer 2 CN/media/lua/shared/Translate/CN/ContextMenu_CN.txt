@@ -1,0 +1,17 @@
+ContextMenu_CN = {
+	ContextMenu_Add_Water_To_Trailer = "给拖车加水",
+	
+	ContextMenu_VehicleAddWater = "倒入水箱",
+	
+	ContextMenu_VehicleSiphonWater = "从水箱取水",
+	   
+	ContextMenu_VehicleAddSingleWater = "从<br>加水",
+	   
+	ContextMenu_VehicleAddWaterToItem = "用水箱填充",
+	ContextMenu_VehicleAddWaterToSingleItem = "<br>从水箱填充",
+	
+   ContextMenu_Open_TankLid = "打开水箱盖",
+   ContextMenu_Close_TankLid = "关闭水箱盖",
+   
+   ContextMenu_Drain_Tank = "排空水箱"
+}

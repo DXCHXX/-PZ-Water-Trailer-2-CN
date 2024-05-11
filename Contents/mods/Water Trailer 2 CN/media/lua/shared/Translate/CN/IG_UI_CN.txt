@@ -1,0 +1,31 @@
+IG_UI_CN = {
+	IGUI_VehicleNameTrailerWaterSmall = "M149 小型水罐拖车",
+	IGUI_VehicleNameTrailerWaterBig = "水罐拖车",
+	
+   IGUI_VehiclePartCatwatertank = "水箱",
+   
+   IGUI_VehiclePart1500WaterTank = "储水罐(1500升)",
+   IGUI_VehiclePart3000WaterTank = "储水罐(3000升)",
+   IGUI_VehiclePart5000WaterTank = "储水罐(5000升)",
+   IGUI_Vehicle_CondInfo1500WaterTank = "用于储存水。<LINE>状况较差的水箱容量减少，可能漏水。",
+   IGUI_Vehicle_CondInfo3000WaterTank = "用于储存水。<LINE>状况较差的水箱容量减少，可能漏水。",
+   IGUI_Vehicle_CondInfo5000WaterTank = "用于储存水。<LINE>状况较差的水箱容量减少，可能漏水。",
+   
+   IGUI_VehiclePartTrunkRight = "右侧后备箱",
+   IGUI_Vehicle_CondInfoTrunkRight = "损坏或变形的后备箱存储容量减小。",
+   IGUI_VehiclePartTrunkDoorRight = "右侧后备箱盖",
+   IGUI_Vehicle_CondInfoTrunkDoorRight = "损坏的后备箱盖可能导致物品从车内掉落。",
+   IGUI_VehiclePartTrunkLeft = "左侧后备箱",
+   IGUI_Vehicle_CondInfoTrunkLeft = "损坏或变形的后备箱存储容量减小。",
+   IGUI_VehiclePartTrunkDoorLeft = "左侧后备箱盖",
+   IGUI_Vehicle_CondInfoTrunkDoorLeft = "损坏的后备箱盖可能导致物品从车内掉落。",
+   
+   IGUI_VehiclePartWaterTankLid = "水箱盖",
+   IGUI_Vehicle_CondInfoWaterTankLid = "开启或损坏的水箱盖可能导致雨水进入水箱。",
+   
+   IGUI_VehiclePartWaterTankPump = "水泵",
+   IGUI_Vehicle_CondInfoWaterTankPump = "损坏的水泵会降低效率，延长注水时间。",
+   
+   IGUI_VehiclePartWaterTankFilter = "滤水器",
+   IGUI_Vehicle_CondInfoWaterTankFilter = "通过滤水器的自来水变为安全可饮用。"
+}

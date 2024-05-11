@@ -1,0 +1,4 @@
+Tooltip_CN = {
+	Tooltip_item_DrinkableWater = "适合饮用。",
+   Tooltip_item_WaterTrailerTankFilter = "用于M149水罐拖车中，净化后的水可安全饮用。"
+}

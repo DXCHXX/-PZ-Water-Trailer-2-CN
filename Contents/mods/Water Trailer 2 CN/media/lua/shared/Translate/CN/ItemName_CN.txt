@@ -1,0 +1,7 @@
+ItemName_CN = {
+   ItemName_Rotators.WaterTrailerTankLid1 = "水箱盖",
+   ItemName_Rotators.WaterTrailerTankLid2 = "水箱盖",
+   ItemName_Rotators.WaterTrailerTankPump1 = "水泵",
+   ItemName_Rotators.WaterTrailerTankPump2 = "水泵",
+   ItemName_Rotators.WaterTrailerTankFilter2 = "水质过滤器",
+}
